@@ -1,0 +1,9 @@
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\Book_Inventory\Book_Inventory\bin\Debug\Book_Inventory.exe
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\Book_Inventory\Book_Inventory\bin\Debug\Book_Inventory.pdb
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\Book_Inventory\Book_Inventory\bin\Debug\Book_Inventory.xml
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\Book_Inventory\Book_Inventory\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\Book_Inventory\Book_Inventory\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\Book_Inventory\Book_Inventory\obj\x86\Debug\Book_Inventory.vbproj.GenerateResource.Cache
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\Book_Inventory\Book_Inventory\obj\x86\Debug\Book_Inventory.exe
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\Book_Inventory\Book_Inventory\obj\x86\Debug\Book_Inventory.xml
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\Book_Inventory\Book_Inventory\obj\x86\Debug\Book_Inventory.pdb
